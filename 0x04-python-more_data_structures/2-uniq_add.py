@@ -7,5 +7,3 @@ def uniq_add(my_list=[]):
         num += i
 
     return (num)
-Footer
-
