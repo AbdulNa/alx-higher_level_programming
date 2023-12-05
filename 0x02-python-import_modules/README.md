@@ -1,4 +1,4 @@
-General objective of this program 
+These are the objectives for this project
 
     Why Python programming is awesome
     How to import functions from another file
